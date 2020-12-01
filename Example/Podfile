@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BNBottomSheet_Example' do
+  pod 'BNBottomSheet', :path => '../'
+
+  target 'BNBottomSheet_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
