@@ -68,7 +68,7 @@ extension BottomSheetViewInstaller {
         //
         contentBackgroundView = UIView.init()
         
-        contentBackgroundView.th.setBackgroundColor(to: .primaryFillColor)
+        contentBackgroundView.backgroundColor = .white
         contentBackgroundView.layer.cornerRadius = 16
         contentBackgroundView.clipsToBounds = true
         contentBackgroundView.translatesAutoresizingMaskIntoConstraints = false

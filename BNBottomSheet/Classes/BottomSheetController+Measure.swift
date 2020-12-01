@@ -51,10 +51,3 @@ extension BottomSheetController {
         return height + 16
     }
 }
-
-extension UIViewController {
-    
-    var viewMargins: UIEdgeInsets {
-        view.safeAreaInsets
-    }
-}
