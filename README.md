@@ -11,6 +11,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+iOS 11.0 or later & Swift 5
+
 ## Installation
 
 BNBottomSheet is available through [CocoaPods](https://cocoapods.org). To install
