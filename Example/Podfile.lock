@@ -1,0 +1,16 @@
+PODS:
+  - BNBottomSheet (0.1.0)
+
+DEPENDENCIES:
+  - BNBottomSheet (from `../`)
+
+EXTERNAL SOURCES:
+  BNBottomSheet:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BNBottomSheet: 0c1cd3a621e6e2e04a0750e320a71684b4ae0c24
+
+PODFILE CHECKSUM: 3cb459d3e7b9a9dcb53f95dd3d73acdf90c77a2f
+
+COCOAPODS: 1.9.3
