@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import BNBottomSheet
 
 class ViewController: UIViewController {
 
